@@ -1,0 +1,122 @@
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\appsettings.json
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.exe
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.deps.json
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.runtimeconfig.json
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ref\Tarea 5.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.pdb
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.Views.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Tarea 5.Views.pdb
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.AssemblyInfo.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.RazorAssemblyInfo.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.RazorAssemblyInfo.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\staticwebassets\Tarea 5.StaticWebAssets.Manifest.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\staticwebassets\Tarea 5.StaticWebAssets.xml
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\scopedcss\bundle\Tarea 5.styles.css
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.TagHelpers.input.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.TagHelpers.output.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.RazorCoreGenerate.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.RazorTargetAssemblyInfo.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.RazorTargetAssemblyInfo.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.Views.pdb
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\ref\Tarea 5.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.pdb
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.genruntimeconfig.cache
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Tarea 5.csproj.CopyComplete
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ExcelDataReader.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Humanizer.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\obj\Debug\net5.0\Razor\Views\Home\Datos.cshtml.g.cs
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\EPPlus.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\emanu\Desktop\ITLA CUARTO CUATRIMESTRE\Prog 2\Tarea 5\Tarea 5\bin\Debug\net5.0\Magnum.dll

@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="form">
+    <h1 class="display-4">Formulario de registro de estudiantes</h1>
+</div>
+
+<div class="text-center">
+
+    <form action="/Home/Datos" enctype="multipart/form-data" method="post">
+
+        <img class="mt-4 mb-4" src="~/images/itla logo.png">
+
+        <div class="mb-3">
+            <input type="text" placeholder="Matricula" name="matricula" class="form-control" id="matricula" required autofocus>
+        </div>
+        <div class="mb-3">
+            <input type="text" class="form-control" name="nombres" placeholder="Nombres" required autofocus>
+        </div>
+        <div class="mb-3">
+            <input type="text" class="form-control" name="apellidos" placeholder="Apellidos" required autofocus>
+        </div>
+        <div class="mb-3">
+            <input type="date" class="form-control" name="fechaNacimiento" placeholder="Fecha de nacimiento" required autofocus>
+        </div>
+
+        <div class="mb-3">
+            <input type="text" class="form-control" name="carrera" placeholder="Carrera" required autofocus>
+        </div>
+
+        <div class="mb-3">
+            <input type="text" class="form-control" name="direccion" placeholder="Direccion" required autofocus>
+        </div>
+
+        <div class="mb-3">
+            <input type="tel" class="form-control" name="telefono" placeholder="Telefono" required autofocus>
+        </div>
+
+        <div class="mb-3">
+            <input type="email" class="form-control" name="email" placeholder="Correo" required autofocus>
+        </div>
+
+        <select name="ExportType" class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            <option value="txt">Txt</option>
+            <option value="excel">Excel</option>
+            <option value="json">Json</option>
+        </select>
+      
+            <button type="submit" name="enviar" class="btn btn-primary">Guardad</button>
+      
+    </form>
+
+
+
+</div>
+
+
